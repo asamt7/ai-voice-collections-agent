@@ -56,7 +56,7 @@ As the Lead Business Analyst, I owned the full requirements lifecycle from disco
 
 ---
 
-## Solution Overview
+## Solution Overview <img src="[https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white](https://drive.google.com/file/d/11J2z1lPjMS1cMQGBv5Vom8EsqmUZc18D/view?usp=sharing)" />
 
 The AI agent - named **"Kassandra"** - operates as follows:
 
@@ -89,7 +89,7 @@ Next Action Recommended to Admin
 
 ---
 
-## 💬 Conversation Scenarios Designed
+## Conversation Scenarios Designed
 
 | Scenario | Description |
 |---|---|
