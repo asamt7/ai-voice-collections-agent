@@ -58,7 +58,7 @@ As the Lead Business Analyst, I owned the full requirements lifecycle from disco
 
 ## 🔄 Solution Overview
 
-The AI agent — named **"[Agent Name]"** — operates as follows:
+The AI agent — named **"Kassandra"** — operates as follows:
 
 ```
 Invoice Data Received → Repository Logged
