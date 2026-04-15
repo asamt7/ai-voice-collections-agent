@@ -56,27 +56,10 @@ As the Lead Business Analyst, I owned the full requirements lifecycle from disco
 
 ---
 
-## Solution Overview <img src="[https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white](https://drive.google.com/file/d/11J2z1lPjMS1cMQGBv5Vom8EsqmUZc18D/view?usp=sharing)" />
-
+## Solution Overview
 The AI agent - named **"Kassandra"** - operates as follows:
 
-```
-Invoice Data Received → Repository Logged
-         ↓
-AI Checks Payment Terms & Due Date
-         ↓
-    Payment Due?
-   ↙           ↘
-  Yes            No → System waits, rechecks on due date
-   ↓
-AI Places Outbound Call (Human-like voice)
-   ↓
-Conversation Handled (one of 5 scenarios)
-   ↓
-Outcome Logged → Admin Dashboard Updated
-   ↓
-Next Action Recommended to Admin
-```
+![Solution Overview](./kassandra_ai_agent_flowchart.svg)
 
 ### Key Capabilities
 
