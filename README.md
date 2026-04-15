@@ -88,25 +88,9 @@ Full scripts available in [`/docs/conversation-scenarios.md`](docs/conversation-
 
 ## Architecture
 
-See [`/diagrams/`](diagrams/) for the full architecture diagram.
+![Solution Overview](./kassandra_architecture_diagram.svg)
 
-**High-level components:**
-
-```
-[ Data Source / Accounts System ]
-           ↓
-[ Central Invoice Repository + Admin Dashboard ]
-           ↓
-[ AI Orchestration Engine ]
-    ↙              ↘
-[ Telephony Layer ]   [ NLP / Speech Synthesis ]
-           ↓
-[ Customer (Outbound Call) ]
-           ↓
-[ Call Recording + Transcription Store ]
-           ↓
-[ Admin Notification + Next-Action Recommendation ]
-```
+---
 
 **Integration Targets (PoC → Future):**
 - Excel / CSV (PoC)
